@@ -1,1 +1,17 @@
+.bg-blk,
+.bg-y{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.bg-blk{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.bg-y{
+    background-color: #ffff00;
+    color: #000000;
+}
+
 /* Add CSS Styling */
